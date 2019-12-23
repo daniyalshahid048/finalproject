@@ -1,0 +1,44 @@
+ *{
+    margin: 0px;
+    padding:0px;
+    
+}
+body{
+    background: #d3d3d3
+    ;
+    background: -moz-linear-gradient(45deg, #d3d3d3
+    0%, #3C3C3C 100%, #d3d3d3,
+    100%);
+    background: -webkit-linear-gradient(45deg, #d3d3d3
+    0%, #3C3C3C 100%, #000000 100%);
+    background: linear-gradient(45deg, #d3d3d3
+    0%, #3C3C3C 100%, #d3d3d3
+    100%);
+}
+
+
+
+
+.LogIn-card form .form-group h5{
+    color: #ed0757
+}
+.LogIn-card form .form-group input{
+    background:transparent;
+    border-radius: 0px;
+    border-color: #ed0757
+}
+.LogIn-card form .btn{
+    color: #ed0757;
+    border:1px solid #ed0757;
+}
+#one{
+	color:white;
+	text-decoration: none;
+	float: right;
+	font-weight: normal;
+}
+
+
+#one:hover{
+	color:#969595;
+}
